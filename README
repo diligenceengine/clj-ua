@@ -4,6 +4,12 @@ Clojure user-agent parser. Because I like pain.
 
 Mostly based on the rules here: http://www.texsoft.it/index.php?m=sw.php.useragent
 
+Note on update: After testing with a few strings from 
+
+http://user-agents.my-addr.com/user_agent_request/user_agent_examples-and-user_agent_types.php
+
+it seems that this code isn't very complete. Would suggest another library for now.
+
 ## Usage
 
 to run the (large) amount of tests:
